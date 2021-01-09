@@ -1,4 +1,4 @@
-# Instalacion_isce2
+## Instalacion isce2
 
 Estas instrucciones fueron creadas siguiendo el procedimiento descrito en https://github.com/lijun99/isce2-install y agregando algunos pasos extras para instalar el linux (ubuntu 20.04 en mi caso).
 
@@ -8,11 +8,11 @@ Lo primero que recomiendo es instalar anaconda para obtener los paquetes necesar
 
 Luego corremos en la terminal:
 
-'''
+"""
 
 $cd Downloads/
  
-'''
+"""
 y luego corremos el instalador
 
 ´´´
@@ -22,4 +22,5 @@ $bash Anaconda3-2020.11-Linux-x86_64.sh
 ´´´
 
 El nombre lo pueden cambiar dependiendo de la versión que descarguen
+
 
