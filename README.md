@@ -8,14 +8,15 @@ Lo primero que recomiendo es instalar anaconda para obtener los paquetes necesar
 
 Luego corremos en la terminal:
 
-"""
+```
 
 $cd Downloads/
  
-"""
+```
+
 y luego corremos el instalador
 
-´´´
+```
 
 $bash Anaconda3-2020.11-Linux-x86_64.sh
 
@@ -23,4 +24,6 @@ $bash Anaconda3-2020.11-Linux-x86_64.sh
 
 El nombre lo pueden cambiar dependiendo de la versión que descarguen
 
+
+```
 
