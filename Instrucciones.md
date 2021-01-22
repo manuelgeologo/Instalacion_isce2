@@ -1,6 +1,6 @@
 ## Instalación isce2 (cmake)
 
-Estas instrucciones fueron escritas siguiendo el procedimiento que se encuentra en https://github.com/lijun99/isce2-install y agregando algunos pasos extras para instalar en linux (ubuntu 20.04 en mi caso).
+Estas instrucciones fueron escritas siguiendo el procedimiento que se encuentra en https://github.com/lijun99/isce2-install y agregando algunos pasos extras para instalar en Linux (Ubuntu 20.04 en mi caso). No sé si funcionará bien instalando en una maquina virtual, yo lo instalé en una partición con Ubuntu
 
 ## 1. Descargar Anaconda
 
