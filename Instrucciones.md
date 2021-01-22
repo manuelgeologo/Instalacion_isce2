@@ -6,7 +6,7 @@ Estas instrucciones fueron escritas siguiendo el procedimiento que se encuentra 
 
 Lo primero que recomiendo es instalar anaconda para obtener los paquetes necesarios que usan programas como isce. Lo pueden descargar directamente de https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
 
-En los cuadros de codigo el simbolo $ indica que se ingresa codigo en la terminal. Primero nos dirigimos a descargas donde se encuentra el archivo de instalación de anaconda.
+En los cuadros de código el simbolo $ indica que se ingresa código en la terminal. Primero nos dirigimos a descargas donde se encuentra el archivo de instalación de anaconda.
 
 ```
 
@@ -142,5 +142,5 @@ Acá nos aparece el mensaje "This is the open source version of ISCE" y muchas l
 
             conda activate isce2
 
-Como mencioné al comienzo, estas instrucciones fueron adaptadas de https://github.com/lijun99/isce2-install por lo que algún detalle extra pueden encontrarlo allí. Incluso otra forma de instalación con scons e instrucciones para instalar en mac. Yo adapté la primera que fue la que me funcionó sin mucho problema. Suerte con la instalación. 
+Como mencioné al comienzo, estas instrucciones fueron adaptadas de https://github.com/lijun99/isce2-install por lo que algún detalle extra pueden encontrarlo allí. Incluso otra forma de instalación con scons e instrucciones para instalar en mac. Yo adapté la primera, que fue la que me funcionó sin mucho problema. Suerte con la instalación. 
 
