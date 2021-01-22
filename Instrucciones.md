@@ -36,7 +36,7 @@ $ source ~/.bashrc
 
 ```
 
-Si tienes anaconda instalado de antes y ocupas otros programas que puedan verse alterados por actualizar paquetes o por conflictos entre estos. Recomiendo hacer un entorno nuevo para instalar isce2. Para crear un entorno pueden correr el siguiente comando, en mi caso use isce2 como nombre para el entorno. Segun las instrucciones originales de isce se recomienda tener python 3.8.
+Si tienes anaconda instalado de antes y ocupas otros programas que puedan verse alterados por actualizar paquetes o por conflictos entre estos. Se recomienda hacer un entorno nuevo para instalar isce2. Para crear un entorno pueden correr el siguiente comando, en mi caso usé isce2 como nombre para el entorno. Según las instrucciones originales de isce se recomienda tener python 3.8.
 
 ```
 $ conda create -n isce2 python=3.8
